@@ -1,1 +1,2 @@
 # introducaoainformatica
+exercícios da matéria
